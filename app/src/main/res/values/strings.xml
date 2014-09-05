@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThisOldHouse</string>
+    <string name="welcome_message">Welcome up to the first activity page</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">This is our 2nd activity</string>
+    <string name="activity_second_text">Stuff for our second page</string>
+    <string name="secondary_button_transition_text">Click me to launch a 2nd activity</string>
+    <string name="secondary_button_return_text">Return to main activity</string>
+
+</resources>
